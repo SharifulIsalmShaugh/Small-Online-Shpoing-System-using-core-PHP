@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<body background="pic/cd.jpg">
+          <p><center>Our product list</center></p
+		  <center>
+		  <form action="/action_page.php">
+
+
+  <p> ProductName :mug  <img src="pic/mug.jpg" style="width:60px;height:70px;">
+    <br>
+ ProductID:2  
+  <br>
+ Price:300
+  <br>
+  <input type="submit" value="ADD">
+</form>
+</p>
+
+ <p> ProductName :id-card <img src="pic/id-card.jpg" style="width:60px;height:70px;">
+    <br>
+ ProductID:3  
+  <br>
+ Price:200
+  <br>
+  <input type="submit" value="ADD">
+</form>
+</p>
+<p> ProductName :T-shirt  <img src="pic/t-shirt.jpg" style="width:60px;height:70px;">
+    <br>
+ ProductID:4  
+  <br>
+ Price:500
+  <br>
+  <input type="submit" value="ADD">
+</form>
+</p>
+ 
+ <p>Developed by 1f4T</p>
+<p><small>Copyright 1999-2050 by Refsnes Data.</small></p>
+
+</body>
+<center>
+</form>
+</html>
